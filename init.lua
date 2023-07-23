@@ -1,0 +1,2 @@
+require("luan")
+print("chegue")
