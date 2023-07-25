@@ -1,2 +1,1 @@
 require("luan")
-print("chegue")
