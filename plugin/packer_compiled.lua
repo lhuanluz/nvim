@@ -79,11 +79,6 @@ _G.packer_plugins = {
     path = "C:\\Users\\luanl\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\LuaSnip",
     url = "https://github.com/L3MON4D3/LuaSnip"
   },
-  ["barbar.nvim"] = {
-    loaded = true,
-    path = "C:\\Users\\luanl\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\barbar.nvim",
-    url = "https://github.com/romgrk/barbar.nvim"
-  },
   ["cmp-nvim-lsp"] = {
     loaded = true,
     path = "C:\\Users\\luanl\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\cmp-nvim-lsp",
@@ -154,6 +149,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "C:\\Users\\luanl\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\rose-pine",
     url = "https://github.com/rose-pine/neovim"
+  },
+  ["split-term.vim"] = {
+    loaded = true,
+    path = "C:\\Users\\luanl\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\split-term.vim",
+    url = "https://github.com/vimlab/split-term.vim"
   },
   ["telescope.nvim"] = {
     loaded = true,

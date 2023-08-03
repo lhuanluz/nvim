@@ -46,5 +46,6 @@ end
 }
     use('nvim-tree/nvim-tree.lua')
     use('nvim-tree/nvim-web-devicons')
-    use 'romgrk/barbar.nvim'
+    --use 'romgrk/barbar.nvim'
+    use('vimlab/split-term.vim')
 end)
