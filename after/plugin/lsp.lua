@@ -7,12 +7,7 @@ lsp.ensure_installed({
   --'html',
   'lua_ls',
   'powershell_es',
-<<<<<<< HEAD
   'sqlls',
-  'gopls',
-=======
-  --'sqlls',
->>>>>>> 597b07abecbfc750795b39ebae1d2ca28ce651e4
 })
 
 -- Fix Undefined global 'vim'
